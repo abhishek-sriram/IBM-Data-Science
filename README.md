@@ -43,7 +43,7 @@ The following Python libraries were used throughout the certification: <br>
   <img  src="https://user-images.githubusercontent.com/84391594/152706217-c0cfd9d8-22ad-4c3b-9ac7-70a6cf2799f7.png" height="35"> <br>
 </p>
 
-## 🏆 Certificates 
+## 🏆 Certificate
 To verify the certificate, click the image below.
 
 <p align="middle">
