@@ -44,7 +44,7 @@ The following Python libraries were used throughout the certification: <br>
 </p>
 
 ## 🏆 Certificate
-To verify the certificate, click the image below.
+To verify my certificate, click the image below.
 
 <p align="middle">
   <a href="https://www.coursera.org/account/accomplishments/professional-cert/2LSFASPTBKLM"><img src="https://github.com/abhishek-sriram/IBM-Data-Science/blob/main/Certificates/IBM%20Data%20Science%20Professional%20Certificate.png" height="400"></a>
